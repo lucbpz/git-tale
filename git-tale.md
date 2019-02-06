@@ -3,6 +3,8 @@ Una misteriosa noche de invierno en que llovia sin parar, se me ocurrio bajar al
 
 
 # Capitulo dos
-Estuve horas atrapado. 
 
+Estuve horas atrapado. 
 y vi un unicornio que me dijo hola.
+Tenía muchísima hambre. 
+
