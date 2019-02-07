@@ -1,7 +1,7 @@
 # Capitulo uno
-Una misteriosa noche de invierno en que llovia sin parar, se me ocurrio bajar al sotano de mi casa en busca de una estufa, pues el ambiente se volvia cada vez mas frio por la humedad reinante. Ya abajo, empece a sentir el sonido de un goteo ininterrumpido. Justo cuando 
+Una misteriosa noche de invierno en que llovía sin parar, se me ocurrió bajar al sotano de mi casa en busca de una estufa, pues el ambiente se volvia cada ves mas frio pór la humedad reinante. Ya abajo, empece a sentir el sonido de un goteo ininterrumpido. Justo cuando 
 
-agudice el oido para definir de donde provenia, senti unos pasos firmes, cuya fuerza retumbaba en la oscuridad del lobrego recinto. Nitidamente percibi que sasae acercaban cada vez mas. De pronto, se cerro la puerta de un solo golpe seco, estruendoso..., entonces, me asuste,
+agudice el oido para definir de donde provenia, senti unos pasos firmes, cuya fuerza retumbaba en la oscuridad del lobrego recinto. Nitidamente percevi que sasae acercaban cada vez mas. De prnto, se cerro la puerta de un solo golpe seco, estruendoso..., entonces, me asuste,
 
 
 # Capitulo dos
