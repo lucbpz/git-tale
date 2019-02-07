@@ -1,7 +1,7 @@
 # Capitulo uno
-Una misteriosa noche de invierno en que llovía sin parar, se me ocurrió bajar al sotano de mi casa en busca de una estufa, pues el ambiente se volvia cada ves mas frio pór la humedad reinante. Ya abajo, empece a sentir el sonido de un goteo ininterrumpido. Justo cuando 
 
-agudice el oido para definir de donde provenia, senti unos pasos firmes, cuya fuerza retumbaba en la oscuridad del lobrego recinto. Nitidamente percevi que sasae acercaban cada vez mas. De prnto, se cerro la puerta de un solo golpe seco, estruendoso..., entonces, me asuste,
+Una misteriosa noche de invierno en que llovía sin parar, se me ocurrió bajar al sótano de mi casa en busca de una estufa, pues el ambiente se volvía cada vez mas frio por la humedad reinante. Ya abajo, empecé a sentir el sonido de un goteo ininterrumpido. Justo cuando agudicé el oído para definir de donde provenía, sentí unos pasos firmes, cuya fuerza retumbaba en la oscuridad del lóbrego recinto. Nítidamente percibí que se acercaban cada vez más. De pronto, se cerró la puerta de un solo golpe seco, estruendoso..., entonces, me asusté.
+
 
 # Capitulo dos
 Estuve horas atrapado. Lo peor de todo es que, cuando me quedé ahí dentro, no tenía café. Durante esas fatídicas horas no tuve otra opción que pensar en unicornios. Tenía muchísima hambre. Y vi un unicornio.
