@@ -4,3 +4,6 @@ Una misteriosa noche de invierno en que llovia sin parar, se me ocurrio bajar al
 
 # Capitulo dos
 Estuve horas atrapado. 
+
+# Capitulo tres
+Cuando finalmente conseguí escapar por la ventana. Paralizada del frío me costaba correr. ¿Quién me había encerrado en la puerta? Tenía demasiadas dudas y demasiado miedo para volver atrás. 
