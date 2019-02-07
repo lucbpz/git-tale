@@ -3,4 +3,5 @@ Una misteriosa noche de invierno en que llovia sin parar, se me ocurrio bajar al
 
 
 # Capitulo dos
-Estuve horas atrapado. 
+Estuve horas atrapado.
+Tenía muchísima hambre. 
