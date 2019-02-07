@@ -3,9 +3,9 @@
 Una misteriosa noche de invierno en que llovía sin parar, se me ocurrió bajar al sótano de mi casa en busca de una estufa, pues el ambiente se volvía cada vez mas frio por la humedad reinante. Ya abajo, empecé a sentir el sonido de un goteo ininterrumpido. Justo cuando agudicé el oído para definir de donde provenía, sentí unos pasos firmes, cuya fuerza retumbaba en la oscuridad del lóbrego recinto. Nítidamente percibí que se acercaban cada vez más. De pronto, se cerró la puerta de un solo golpe seco, estruendoso..., entonces, me asusté.
 
 
-# Capitulo dos
 
-Estuve horas atrapado.
+# Capitulo dos
+Estuve horas atrapado. Lo peor de todo es que, cuando me quedé ahí dentro, no tenía café. Durante esas fatídicas horas no tuve otra opción que pensar en unicornios. Tenía muchísima hambre. Y vi un unicornio.
 
 # Capitulo cuatro
 
@@ -52,3 +52,7 @@ Aprende de quienes pueden enseñarte…
 No permitas que la vida
 te pase por encima
 sin que la vivas…”
+
+# Final
+Las huestes del ejército de los innombrables se cernían sobre la solitaria estepa. Eustaquio, hijo de Legolas, sintió la presión de la marcha de sus pasos sobre su pecho. "Es el momento. No podemos echarnos atrás". Con un grito de batalla, dirigió lo que quedaba de la resistencia hacia su enfrentamiento final. Era una batalla perdida, pero quedaría escrito en los anales de la historia (de git) como su último gran gesto. Futil, pero necesario.
+
