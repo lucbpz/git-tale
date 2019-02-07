@@ -3,4 +3,5 @@ Una misteriosa noche de invierno en que llovia sin parar, se me ocurrio bajar al
 
 
 # Capitulo dos
-Estuve horas atrapado. Lo peor de todo es que, cuando me quedé ahí dentro, no tenía café. Durante esas fatídicas horas no tuve otra opción que pensar en unicornios.
+Estuve horas atrapado. Lo peor de todo es que, cuando me quedé ahí dentro, no tenía café. Durante esas fatídicas horas no tuve otra opción que pensar en unicornios. Tenía muchísima hambre. 
+
